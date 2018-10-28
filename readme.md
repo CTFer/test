@@ -2,4 +2,5 @@ readme
 
 dev create test
 
-master branch is ok
+master branch and feature1 ok
+
